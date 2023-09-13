@@ -13,10 +13,7 @@ printf("infinite loop incoming :(\n");
 
 i = 0;
 
-/*while 9i < 10)*/
-/*}*/
-/*    putchar(i);*/
-/*}*/
 printf("infinite loop avoided! \\o/\n");
 
 return (0);
+}
