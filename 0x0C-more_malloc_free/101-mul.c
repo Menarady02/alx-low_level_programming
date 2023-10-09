@@ -26,7 +26,7 @@ return (1);
 /**
  * _strlen - returns the length of a string
  * @s: string to evaluate
- * 
+ *
  * Return: the length of the string
  */
 int _strlen(char *s)
@@ -57,7 +57,7 @@ exit(98);
  * Return: always 0 (Success)
  */
 int main(int argc, char *argv[])
-{{
+{
 char *s1, *s2;
 int len1, len2, len, i, carry, digit1, digit2, *result, a = 0;
 
